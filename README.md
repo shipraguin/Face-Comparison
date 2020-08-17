@@ -1,7 +1,8 @@
 # Face-Comparison
 Face Comparison is a technology that allows users to verify if two faces belong to the same person. 
 ## How it works
-1. Install a few libraries.\
+1. Install a few libraries. \
+   Libaries can be installed using `pip install package-name` \
 a. face_recognition \
 b. sounddevice \
 c. moviepy
